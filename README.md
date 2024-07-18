@@ -10,7 +10,7 @@
 ### Skills
 
 ### CMS
-- **Custom WordPress, Elementor, Divi
+- Custom WordPress, Elementor, Divi
 
 #### Frontend
 
