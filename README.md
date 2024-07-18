@@ -12,13 +12,13 @@
 #### Frontend
 
 - **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** NextJs, Vuejs
+- **Frameworks/Libraries:** NextJs, AngularJs
 - **Styling:** SASS, Bootstrap, Tailwind CSS
 - **Tools:** npm
 
 #### Backend
 
-- **Frameworks:** Node(Express.js), PHP(Laravel)
+- **Frameworks:** Node(Express.js)
 - **Databases:** MySQL
 - **APIs:** RESTful
 - **Authentication/Authorization:** JWT
@@ -26,7 +26,6 @@
 #### DevOps
 
 - **Version Control:** Git, GitHub, Bitbucket
-- **Containerization:** Docker
 
 ---
 
