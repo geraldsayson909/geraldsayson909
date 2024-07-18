@@ -9,6 +9,9 @@
 
 ### Skills
 
+### CMS
+- ** Custom WordPress, Elementor, Divi
+
 #### Frontend
 
 - **Languages:** HTML5, CSS3, JavaScript
