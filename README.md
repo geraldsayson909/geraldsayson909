@@ -10,14 +10,14 @@
 ### Skills
 
 ### CMS
-- ** Custom WordPress, Elementor, Divi
+- **Custom WordPress, Elementor, Divi
 
 #### Frontend
 
 - **Languages:** HTML5, CSS3, JavaScript
 - **Frameworks/Libraries:** NextJs, AngularJs
 - **Styling:** SASS, Bootstrap, Tailwind CSS
-- **Tools:** npm
+- **Tools:** NPM
 
 #### Backend
 
