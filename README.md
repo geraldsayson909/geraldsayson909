@@ -32,6 +32,8 @@
 
 ---
 
+<img src="./assets/technical.svg" width="60" />
+
 ### My GitHub Stats
 
 <p align="center">
