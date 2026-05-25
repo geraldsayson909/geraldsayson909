@@ -24,19 +24,20 @@
   Technical Skills
 </h2>
 
-| Category                | Skills                                                                  |
-| ----------------------- | ----------------------------------------------------------------------- |
-| 🧩 **CMS**              | WordPress, Headless CMS                                                 |
-| 🎨 **Frontend**         | Next.js, ReactJS, AngularJS, VueJS                                      |
-| ⚙️ **Backend**          | Node.js, Express.js                                                     |
-| 💅 **Styling**          | Tailwind CSS, Bootstrap, SASS                                           |
-| 🗄️ **Databases**        | MySQL                                                                   |
-| 🔗 **APIs & Auth**      | REST APIs, Third-party API Integration, JWT Authentication & Authorization |
-| 🚀 **Version Control**  | Git, GitHub, Bitbucket                                                  |
-| 💻 **Languages**        | HTML, CSS, JavaScript                                                   |
-| 📊 **SEO & Analytics**  | Ahrefs, Google Analytics                                                |
-| 📊 **Social/Meta Tags** | OpenGraph                                                               |
-| 🛠️ **Tools & Design**   | NPM, Figma, Adobe XD                                                    |
+| Category                   | Skills                                                                     |
+| -------------------------- | -------------------------------------------------------------------------- |
+| 🧩 **CMS**                 | WordPress, Headless CMS                                                    |
+| 🎨 **Frontend**            | Next.js, ReactJS, AngularJS, VueJS                                         |
+| ⚙️ **Backend**             | Node.js, Express.js                                                        |
+| 💅 **Styling**             | Tailwind CSS, Bootstrap, SASS                                              |
+| 🗄️ **Databases**           | MySQL                                                                      |
+| 🔗 **APIs & Auth**         | REST APIs, Third-party API Integration, JWT Authentication & Authorization |
+| 🚀 **Version Control**     | Git, GitHub, Bitbucket                                                     |
+| 💻 **Languages**           | HTML, CSS, JavaScript                                                      |
+| 📊 **SEO & Analytics**     | Ahrefs, Google Analytics                                                   |
+| 📊 **Social/Meta Tags**    | OpenGraph                                                                  |
+| 📊 **Testing & Dev Tools** | BrowserStack, Cross-browser Testing, Responsive Testing                    |
+| 🛠️ **Tools & Design**      | NPM, Figma, Adobe XD                                                       |
 
 ### My GitHub Stats
 
