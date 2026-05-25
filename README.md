@@ -31,9 +31,12 @@
 - **Version Control:** Git, GitHub, Bitbucket
 
 ---
-<div>
-<img src="./assets/technical.png" width="60" /> Technical Skills
-</div>
+
+<section style="display:flex;align-items:center;">
+<img src="./assets/technical.svg" width="60" />
+<h2>Technical Skills</h2>
+</section>
+
 
 ### My GitHub Stats
 
