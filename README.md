@@ -32,10 +32,7 @@
 
 ---
 
-<p>
-  <img src="./assets/technical.png" width="60" />
-  <strong>Technical Skills</strong>
-</p>
+<img src="./assets/technical.png" width="60" /> ## Technical Skills
 
 
 ### My GitHub Stats
