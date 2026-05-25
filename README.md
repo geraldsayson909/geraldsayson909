@@ -45,5 +45,4 @@
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldsayson909&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="geraldsayson909's GitHub Activity Graph" width="100%" />
-/>
 </p>
