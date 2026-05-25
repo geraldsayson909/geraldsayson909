@@ -32,7 +32,7 @@
 
 ---
 
-<h2>**<img src="./assets/technical.png" width="20" /> Technical Skills**</h2>
+<h2><img src="./assets/technical.png" width="20" />  Technical Skills</h2>
 
 
 ### My GitHub Stats
