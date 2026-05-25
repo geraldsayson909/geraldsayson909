@@ -32,7 +32,7 @@
 
 ---
 
-<img src="./assets/technical.svg" width="60" />
+<img src="./assets/technical.png" width="60" />
 
 ### My GitHub Stats
 
