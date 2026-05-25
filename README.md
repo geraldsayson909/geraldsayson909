@@ -46,3 +46,21 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldsayson909&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="geraldsayson909's GitHub Activity Graph" width="100%" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geraldsayson909&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=geraldsayson909&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geraldsayson909&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
