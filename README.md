@@ -46,7 +46,7 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldsayson909&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="geraldsayson909's GitHub Activity Graph" width="100%" />
     <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldsayson909&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldsayson909&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldsayson909)" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldsayson909" 
   alt="Top Languages" 
 />
 </p>
