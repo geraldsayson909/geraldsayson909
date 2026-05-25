@@ -34,9 +34,9 @@
 | 🔗 **APIs & Auth**         | REST APIs, Third-party API Integration, JWT Authentication & Authorization |
 | 🚀 **Version Control**     | Git, GitHub, Bitbucket                                                     |
 | 💻 **Languages**           | HTML, CSS, JavaScript                                                      |
-| 📊 **SEO & Analytics**     | Ahrefs, Google Analytics                                                   |
-| 📊 **Social/Meta Tags**    | OpenGraph                                                                  |
-| 📊 **Testing & Dev Tools** | BrowserStack, Cross-browser Testing, Responsive Testing                    |
+| 📊 **SEO & Analytics**     | Ahrefs, Google Analytics, PageSpeed Insights                                                   |
+| 🌐 **Social/Meta Tags**    | OpenGraph                                                                  |
+| 🧪 **Testing & Dev Tools** | BrowserStack, Cross-browser Testing, Responsive Testing                    |
 | 🛠️ **Tools & Design**      | NPM, Figma, Adobe XD                                                       |
 
 ### My GitHub Stats
