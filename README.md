@@ -20,8 +20,8 @@
 ---
 
 <h2>
-  <img src="./assets/technical-icon.svg" width="30"  style="vertical-align: middle;"/>
-  <span style="font-size:24px; font-weight:bold;">Technical Skills</span>
+  <img src="./assets/technical-icon.svg" width="30" valign="middle" />
+  Technical Skills
 </h2>
 
 | Category               | Skills                                        |
