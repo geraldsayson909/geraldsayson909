@@ -31,8 +31,9 @@
 - **Version Control:** Git, GitHub, Bitbucket
 
 ---
-
-<img src="./assets/technical.png" width="60" />
+<div>
+<img src="./assets/technical.png" width="60" /> Technical Skills
+</div>
 
 ### My GitHub Stats
 
