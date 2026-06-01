@@ -24,6 +24,8 @@
   Technical Skills
 </h2>
 
+
+
 | Category                   | Skills                                                                     |
 | -------------------------- | -------------------------------------------------------------------------- |
 | 🧩 **CMS**                 | WordPress, Headless CMS                                                    |
@@ -33,6 +35,7 @@
 | 🗄️ **Databases**           | MySQL                                                                      |
 | 🔗 **APIs & Auth**         | REST APIs, Third-party API Integration, JWT Authentication & Authorization |
 | 🚀 **Version Control**     | Git, GitHub, Bitbucket                                                     |
+| ☁️ **Deployment & Hosting**| Vercel, Cloudflare                                                         |
 | 💻 **Languages**           | HTML, CSS, JavaScript                                                      |
 | 📊 **SEO & Analytics**     | Ahrefs, Google Analytics, PageSpeed Insights                                                   |
 | 🌐 **Social/Meta Tags**    | OpenGraph                                                                  |
