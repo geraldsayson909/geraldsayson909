@@ -6,13 +6,18 @@
 <p>Detail-oriented web developer with 5+ years of experience building and maintaining responsive websites. Specialized in full-stack development with a strong passion for modern web technologies, continuous learning, and quickly adapting to new tools and frameworks as needed.</p>
 
 <p align="left">
-  <a href="mailto:geraldsayson909@gmail.com">📧 Email</a>
-  &nbsp;|&nbsp;
-  <a href="tel:+639104602172">📱 Phone</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/gerald-sayson-a78920194/">💼 LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.facebook.com/gerald.sayson.88677/">📘 Facebook</a>
+  <a href="mailto:geraldsayson909@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="tel:+639104602172">
+    <img src="https://img.shields.io/badge/Phone-+63%20910%20460%202172-green?style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/gerald-sayson-a78920194/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/gerald.sayson.88677/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook" />
+  </a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=geraldsayson909&color=268F77)
