@@ -12,10 +12,14 @@
   <a href="tel:+639104602172">
     <img src="https://img.shields.io/badge/Phone-+63%20910%20460%202172-green?style=flat-square" />
   </a>
-  <a href="https://www.linkedin.com/in/gerald-sayson-a78920194/">
+  <a
+    target="_blank"
+    href="https://www.linkedin.com/in/gerald-sayson-a78920194/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://www.facebook.com/gerald.sayson.88677/">
+  <a
+    target="_blank"
+    href="https://www.facebook.com/gerald.sayson.88677/">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook" />
   </a>
 </p>
