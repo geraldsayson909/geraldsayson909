@@ -49,7 +49,7 @@
 
 <p align="center">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=geraldsayson909&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="geraldsayson909's GitHub Stats" width="49%" />
-    <img src="https://streak-stats.demolab.com?user=geraldsayson909&theme=gotham&hide_border=true" alt="geraldsayson909's GitHub Streak" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=geraldsayson909&theme=gotham&hide_border=true&cache=false" alt="geraldsayson909's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
