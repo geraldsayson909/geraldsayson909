@@ -12,14 +12,10 @@
   <a href="tel:+639104602172">
     <img src="https://img.shields.io/badge/Phone-+63%20910%20460%202172-green?style=flat-square" />
   </a>
-  <a
-    target="_blank"
-    href="https://www.linkedin.com/in/gerald-sayson-a78920194/">
+  <a target="_blank" href="https://www.linkedin.com/in/gerald-sayson-a78920194/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a
-    target="_blank"
-    href="https://www.facebook.com/gerald.sayson.88677/">
+  <a target="_blank" href="https://www.facebook.com/gerald.sayson.88677/">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook" />
   </a>
 </p>
@@ -28,34 +24,32 @@
 
 ---
 
-<h2>
-  <img src="./assets/technical-icon.svg" width="30" valign="middle" />
+<h3>
+  <img src="./assets/technical-icon.svg" width="30" style="vertical-align: middle;" />
   Technical Skills
-</h2>
+</h3>
 
-
-
-| Category                   | Skills                                                                     |
-| -------------------------- | -------------------------------------------------------------------------- |
-| 🧩 **CMS**                 | WordPress, Headless CMS                                                    |
-| 🎨 **Frontend**            | Next.js, ReactJS, AngularJS, VueJS                                         |
-| ⚙️ **Backend**             | Node.js, Express.js                                                        |
-| 💅 **Styling**             | Tailwind CSS, Bootstrap, SASS                                              |
-| 🗄️ **Databases**           | MySQL                                                                      |
-| 🔗 **APIs & Auth**         | REST APIs, Third-party API Integration, JWT Authentication & Authorization |
-| 🚀 **Version Control**     | Git, GitHub, Bitbucket                                                     |
-| ☁️ **Deployment & Hosting**| Vercel, Cloudflare                                                         |
-| 💻 **Languages**           | HTML, CSS, JavaScript                                                      |
-| 📊 **SEO & Analytics**     | Ahrefs, Google Analytics, PageSpeed Insights                                                   |
-| 🌐 **Social/Meta Tags**    | OpenGraph                                                                  |
-| 🧪 **Testing & Dev Tools** | BrowserStack, Cross-browser Testing, Responsive Testing                    |
-| 🛠️ **Tools & Design**      | NPM, Figma, Adobe XD                                                       |
+| Category | Skills |
+| :--- | :--- |
+| 🧩 **CMS** | WordPress, Headless CMS |
+| 🎨 **Frontend** | Next.js, ReactJS, AngularJS, VueJS |
+| ⚙️ **Backend** | Node.js, Express.js |
+| 💅 **Styling** | Tailwind CSS, Bootstrap, SASS |
+| 🗄️ **Databases** | MySQL |
+| 🔗 **APIs & Auth** | REST APIs, Third-party API Integration, JWT Authentication & Authorization |
+| 🚀 **Version Control** | Git, GitHub, Bitbucket |
+| ☁️ **Deployment & Hosting** | Vercel, Cloudflare |
+| 💻 **Languages** | HTML, CSS, JavaScript |
+| 📊 **SEO & Analytics** | Ahrefs, Google Analytics, PageSpeed Insights |
+| 🌐 **Social/Meta Tags** | OpenGraph |
+| 🧪 **Testing & Dev Tools** | BrowserStack, Cross-browser Testing, Responsive Testing |
+| 🛠️ **Tools & Design** | NPM, Figma, Adobe XD |
 
 ### My GitHub Stats
 
 <p align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=geraldsayson909&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="geraldsayson909's GitHub Streak" width="52.4%" />
-    <img src="https://streak-stats.demolab.com?user=geraldsayson909&theme=gotham&hide_border=true" alt="geraldsayson909's GitHub Stats" width="45.6%" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=geraldsayson909&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="geraldsayson909's GitHub Stats" width="49%" />
+    <img src="https://streak-stats.demolab.com?user=geraldsayson909&theme=gotham&hide_border=true" alt="geraldsayson909's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
